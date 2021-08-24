@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Fiorito\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Fiorito\\.nuget\\packages"
+    ]
+  }
+}
